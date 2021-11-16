@@ -3,3 +3,8 @@
 */
 
 $primary: #0c4bfa;
+$body-color: blue;
+$text-color:red;
+
+body{ background-color: $body-color;}
+p{color: $text-color;}
